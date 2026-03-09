@@ -4,19 +4,13 @@ Aplicação desenvolvida em C# com o objetivo de realizar diversas operações m
 # 🧮 Funcionalidades O sistema realiza diversas verificações e operações matemáticas:
 
 *🔢 Operações com números 
-Dobro de um número 
-Antecessor e sucessor
-Verificação se dois números são iguais ou diferentes
+Dobro de um número, antecessor e sucessor, verificação se dois números são iguais ou diferentes
 
 *📈 Comparações 
 Verificar qual número é maior ou menor
 
 *⚖️ Classificação de números 
-Verificar se o número é par ou ímpar 
-Verificar se o número é positivo, negativo ou neutro
+Verificar se o número é par ou ímpar e verificar se o número é positivo, negativo ou neutro
 
 *➕ Operações matemáticas
-Soma 
-Subtração 
-Multiplicação 
-Divisão
+Soma + , Subtração - , Multiplicação X ,  Divisão /
