@@ -16,4 +16,7 @@ Verificar se o número é par ou ímpar
 Verificar se o número é positivo, negativo ou neutro
 
 *➕ Operações matemáticas
-Soma Subtração Multiplicação Divisão
+Soma 
+Subtração 
+Multiplicação 
+Divisão
