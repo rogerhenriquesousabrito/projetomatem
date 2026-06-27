@@ -1,6 +1,8 @@
 # 📊 Projeto Matemática (ProjetoMatem)
 Aplicação desenvolvida em C# com o objetivo de realizar diversas operações matemáticas básicas. O projeto foi criado como forma de praticar lógica de programação, estrutura de decisões e desenvolvimento de aplicações desktop.
 
+-------------------------------------------
+
 # 🧮 Funcionalidades O sistema realiza diversas verificações e operações matemáticas:
 
 *🔢 Operações com números:
@@ -14,3 +16,11 @@ Verificar se o número é par ou ímpar e verificar se o número é positivo, ne
 
 *➕ Operações matemáticas:
 Soma + , Subtração - , Multiplicação X ,  Divisão /
+
+-------------------------------------------
+
+### 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** C#
+* **Programa:**  Visual Studio 2019
+  
